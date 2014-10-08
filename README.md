@@ -7,3 +7,5 @@ past the auto-merger, and since no human will look at my pull request, I will de
 get my change merged in.  Hahahaha!
 
 [some more text](README.md)
+
+[The next dir](dir/file.md)
