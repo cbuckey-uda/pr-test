@@ -4,9 +4,6 @@ c
 d
 e
 f
-g
-h
-i
 j
 k
 l
@@ -62,10 +59,7 @@ bi
 bj
 bk
 bl
-bm
-bn
-bo
-bp
+blargh
 bq
 br
 bs
