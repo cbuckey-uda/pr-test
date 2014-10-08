@@ -1,1 +1,1 @@
-Adding an [invalid link](fooey)
+Adding a [valid link](README.md)
