@@ -9,3 +9,5 @@ get my change merged in.  Hahahaha!
 [some more text](README.md)
 
 [The next dir](dir/file.md)
+
+[The next dir for reals](https://github.com/cbuckey-uda/pr-test/blob/master/dir/file.md)
