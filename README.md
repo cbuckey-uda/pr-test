@@ -10,4 +10,4 @@ get my change merged in.  Hahahaha!
 
 [The next dir](dir/file.md)
 
-(A backwards link)[www.google.com]
+[A backwards link](www.google.com)
