@@ -9,3 +9,5 @@ get my change merged in.  Hahahaha!
 [some more text](README.md)
 
 [The next dir](dir/file.md)
+
+Thank you for reading this README
